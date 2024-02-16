@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Buzz's Blog World',
+  name: 'Buzz Blog',
   domain: 'https://www.notion.so/Next-js-Notion-Starter-Kit-Template-8d49144265634736a38f42a38befb128?pvs=4',
   author: '巴斯光年在哪里',
 
