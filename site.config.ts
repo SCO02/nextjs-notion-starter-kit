@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang Blog World',
-  domain: 'chaodit.tech',
-  author: 'Chaodi Tang',
+  name: 'Buzz's Blog World',
+  domain: 'https://www.notion.so/Next-js-Notion-Starter-Kit-Template-8d49144265634736a38f42a38befb128?pvs=4',
+  author: '巴斯光年在哪里',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: '',
   github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  linkedin: 'SCO02',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
